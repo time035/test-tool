@@ -2,6 +2,14 @@
     "addons": {
         "{e333f629-28e1-4b40-bc5e-da6d1c3c443a}": {
             "updates": [
+                {
+                    "version": "5.0",
+                    "update_link": "https://github.com/time035/test-tool/raw/refs/heads/main/test-tool-5.0.xpi"
+                },
+                {
+                    "version": "6.0",
+                    "update_link": "https://github.com/time035/test-tool/raw/refs/heads/main/test-tool-6.0.xpi"
+                }
             ]
         }
     }
